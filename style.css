@@ -2,19 +2,33 @@
     box-sizing: inherit;
     padding: 10px;
     margin: 16px;
-    background-color: rgb(10, 8, 7);
+    background-color: black;
    color: rgb(242, 234, 234);
 }
 
-.header div {
+body {
    padding-top: 30px;
    margin-top: 20px;
    float: left;
 font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 font-size:larger;
 color: rgb(241, 241, 250);
-background-color: rgba(53, 235, 12, 0.369);
+background-color: rgb(1, 61, 1);
 
 
 }
 
+.port {
+    width: 180px; 
+
+}
+
+.flex {
+    font-size: larger;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+.pro {
+    font-size: small;
+}
